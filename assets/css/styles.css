@@ -1,0 +1,86 @@
+/* NAVEGACIÓN */
+
+.logo {
+    width: 100px;
+}
+
+/* PRINCIPAL */
+
+.card {
+    margin: 15px;
+}
+
+.card h5 {
+    font-family: 'Roboto';
+    font-size: 20pt;
+    font-weight: 300;
+    color: #212529;
+}
+
+.card i {
+    font-size: 9pt;
+    color: #707070;
+    margin-right: 5px;
+}
+
+.card-body span {
+    font-size: 16pt;
+    font-weight: 500;
+    color: #28A745;
+}
+
+.card-body .p1 {
+    font-size: 14pt;
+    font-weight: 300;
+    color: #707070;
+}
+
+.card-body .p2 {
+    font-size: 12pt;
+    font-weight: 300;
+    color: #707070;
+    margin-top: -20px;
+}
+
+/* FORMULARIO */
+
+.form {
+    background-color: #28A745;
+}
+
+.form p {
+    font-family: 'Roboto';
+    font-size: 16pt;
+    font-weight: 500;
+}
+
+.form input {
+    font-family: 'Roboto';
+    font-weight: 300;
+    color: #707070;
+}
+
+.form button {
+    font-family: 'Roboto';
+    font-weight: 500;
+    color: #212529;
+}
+
+/* PIE DE PÁGINA */
+
+.logofooter {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.logofooter img {
+    width: 150px;
+    padding: 10px;
+}
+
+.logofooter p {
+    font-family: 'Roboto';
+    font-size: 14pt;
+    font-weight: 300;
+    color: #707070;
+}
